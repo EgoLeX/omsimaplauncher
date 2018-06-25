@@ -16,8 +16,8 @@ You're allowed to modify the code in this way that you get youre prefered launch
 * You're not allowed to remove the following code snippets:<br />
 <code>
   /*
-  * ----
-  *
-  * ----
+  * ------------------------------------------------
+  *  Base-Code written by AkEgo (akego.dev@gmail.com)
+  * ------------------------------------------------
   */
 </code>
