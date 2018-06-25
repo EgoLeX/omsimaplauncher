@@ -14,10 +14,4 @@ An default knowlegde of Java is practical but not recommended!
 You're allowed to modify the code in this way that you get youre prefered launcher layout, but:
 * You're not allowed to publish the source files on any other platform without my agreement
 * You're not allowed to remove the following code snippets:<br />
-<code>
-  /*
-  * ------------------------------------------------
-  *  Base-Code written by AkEgo (akego.dev@gmail.com)
-  * ------------------------------------------------
-  */
-</code>
+![Dont remove code - Image](https://i.imgur.com/FvXpPSD.png)
