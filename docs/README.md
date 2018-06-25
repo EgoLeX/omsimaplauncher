@@ -15,9 +15,9 @@ You're allowed to modify the code in this way that you get youre prefered launch
 * You're not allowed to publish the source files on any other platform without my agreement
 * You're not allowed to remove the following code snippets:<br />
 <code>
-  /*<br />
-  * ------------------------------------------------<br />
-  *  Base-Code written by AkEgo (akego.dev@gmail.com)<br />
-  *  ------------------------------------------------<br />
-  */<br />
+  /*
+  * ----
+  *
+  * ----
+  */
 </code>
