@@ -7,5 +7,5 @@ An default knowlegde of Java is practical but not recommended!
 **You would like to know how to modify the code but you dont know how?:** <br />
 (Wiki available in English and German)<br /><br />
 [![Wiki](https://i.imgur.com/IDhUgMu.png)](https://github.com/EgoLeX/omsimaplauncher/wiki)<br /><br /><br />
-**Sample launcher screenshot:**<br /><br /><br />
+**Sample launcher screenshot:**<br /><br />
 ![Launcher Sample Image](https://i.imgur.com/j02J1aF.png)
