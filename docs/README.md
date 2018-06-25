@@ -13,5 +13,5 @@ An default knowlegde of Java is practical but not recommended!
 **Important Note!! Terms of using:**<br />
 You're allowed to modify the code in this way that you get youre prefered launcher layout, but:
 * You're not allowed to publish the source files on any other platform without my agreement
-* You're not allowed to remove the following code snippets:<br />
+* You're not allowed to remove the following code snippets from classes:<br />
 ![Dont remove code - Image](https://i.imgur.com/FvXpPSD.png)
