@@ -16,4 +16,4 @@ You're allowed to modify the code in this way that you get youre prefered launch
 * You're not allowed to remove the following code snippets from classes:<br />
 ![Dont remove code - Image](https://i.imgur.com/FvXpPSD.png)
 <br/><br/>
-I worked hard on this code so please accept these terms to use the launcher!
+I worked hard on this code so please accept these terms to use for this launcher!
