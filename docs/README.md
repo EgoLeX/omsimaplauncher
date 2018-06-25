@@ -9,3 +9,15 @@ An default knowlegde of Java is practical but not recommended!
 [![Wiki](https://i.imgur.com/IDhUgMu.png)](https://github.com/EgoLeX/omsimaplauncher/wiki)<br /><br /><br />
 **Sample launcher screenshot:**<br /><br />
 ![Launcher Sample Image](https://i.imgur.com/j02J1aF.png)
+<br /><br /><br />
+**Important Note!! Terms of using:**
+You're allowed to modify the code in this way that you get youre prefered launcher layout, but:
+* You're not allowed to publish the source files on any other platform without my agreement
+* You're not allowed to remove the following code snippets:
+<code>
+  /*
+  * ------------------------------------------------
+  *  Base-Code written by AkEgo (akego.dev@gmail.com)
+  *  ------------------------------------------------
+  */  
+</code>
